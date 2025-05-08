@@ -5,10 +5,10 @@
 /.pnp
 .pnp.js
 /server/node_modules
-# testing
+# testing 
 /coverage
 
-# production
+# production test
 /build
 
 # misc
