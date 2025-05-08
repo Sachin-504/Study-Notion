@@ -178,7 +178,7 @@ exports.login = async (req, res) => {
 		});
 	}
 };
-// Send OTP For Email Verification
+// Send OTP For Email Verification for jwhe  ewe 
 exports.sendotp = async (req, res) => {
 	try {
 		const { email } = req.body;
